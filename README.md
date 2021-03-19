@@ -1,4 +1,12 @@
-# The Twitter Ruby Gem
+# The Twitter Ruby Gem Version 5.5.1 forked 
+
+We have just changed the memoisable lib version from 0.4.0 to 0.4.2
+
+
+Bellow is the original Twitter 5.5.1 documentation
+
+#Twitter 5.5.1 documentation
+
 
 [![Gem Version](https://badge.fury.io/rb/twitter.png)][gem]
 [![Build Status](https://secure.travis-ci.org/sferik/twitter.png?branch=master)][travis]
